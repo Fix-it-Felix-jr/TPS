@@ -27,13 +27,13 @@ pip install matplotlib numpy pyvista csv argparse torch torchvision torchaudio
 > Clone the repository
 
 ```shell
-git clone https://bitbucket.org/fmilicchio/animation/src/Gabriele_Zintu/AnimationScript/Python/tps-final/ -b Gabriele_Zintu
+git clone https://github.com/Fix-it-Felix-jr/TPS.git
 ```
 
 > Go to the right folder
 
 ```shell
-cd tps-final/AnimationScript/Python/tps-final/
+cd TPS/
 ```
 
 > Load your figures in /data/input.txt
