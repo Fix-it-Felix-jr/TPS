@@ -43,9 +43,9 @@ cd tps-final/AnimationScript/Python/tps-final/
 ## Usage
 
 ```shell
-python3 main.py -s STEPS -d DIMENSIONS -l NUMBER_OF_LANDMARKS_PER_SHAPE 
+python3 main.py -s STEPS -d DIMENSIONS -l NUMBER_OF_LANDMARKS_PER_SHAPE -m MU
 ```
-> Where STEPS is the number of steps, DIMENSIONS is the number of dimensions of your shapes (2D/3D), and NUMBER_OF_LANDMARKS_PER_SHAPE is the numeber of points stored in each shape
+> Where STEPS is the number of steps, DIMENSIONS is the number of dimensions of your shapes (2D/3D), NUMBER_OF_LANDMARKS_PER_SHAPE is the numeber of points stored in each shape, and MU is the value of mu
 
 > A file output.csv will be saved in the same directory where main.py is stored. This file contains all the output points plotted by this program
 
